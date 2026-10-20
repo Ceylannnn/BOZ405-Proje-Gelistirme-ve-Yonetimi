@@ -12,16 +12,6 @@
 ### 1. Empati Haritası (Persona: Üniversite öğrencisi)
 ![Empati Haritası](./empati-haritasi.png)
 
-| Ne görüyor? | Ne duyuyor? |
-| :--- | :--- |
-| Kaynaklar bölümünde onlarca dosyanın uzun, düz bir listede sıralandığını; birbirine benzeyen dosya adlarını (Hafta3_son, Hafta3_son_v2); arkadaşlarının gruplarda "hocanın slaytı nerede?" diye sorduğunu. | Arkadaşları: *"Ben de bulamadım, grupta var mı?"*<br>Hoca: *"Tüm kaynaklar sisteme yüklü."*<br>Üst sınıflar: *"Dosyaları kendin indirip klasörle."* |
-
-| Ne düşünüyor ve hissediyor? | Ne söylüyor ve yapıyor? |
-| :--- | :--- |
-| *"Bu dosyayı nerede görmüştüm?"* Bunalmış, sinirli; sınav öncesi *"bir şeyi kaçırıyor muyum?"* kaygısı. | Dosyaları tek tek açıyor, arkadaşlarından dosya istiyor, kendi bilgisayarında klasörlüyor, çalışmayı erteliyor. |
-
-* **Acısı:** Doğru kaynağı bulmak için gereğinden fazla zaman harcıyor, hangi kaynağın önemli olduğunu bilmiyor, çalışma motivasyonu başlamadan düşüyor.
-* **Kazancı:** Kaynağa birkaç saniyede ulaşmak, o hafta neyi çalışacağını net görmek, zamanını arayarak değil çalışarak geçirmek.
 
 ---
 
