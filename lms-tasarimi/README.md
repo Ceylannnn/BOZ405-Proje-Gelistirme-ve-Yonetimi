@@ -47,7 +47,7 @@
 #### Ekran 2: Tüm Haftalar ve Filtreler
 ![Ekran 2](./prototip-ekran-2.png)
 
-#### Ekran 3: Arama Sonuçları
+#### Ekran 3: Notlar
 ![Ekran 3](./prototip-ekran-3.png)
 
 ---
