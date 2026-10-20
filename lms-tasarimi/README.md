@@ -9,7 +9,7 @@
 
 ---
 
-### 1. Empati Haritası (Persona: Elif, 3. sınıf mühendislik öğrencisi)
+### 1. Empati Haritası (Persona: Üniversite öğrencisi)
 ![Empati Haritası](./empati-haritasi.png)
 
 | Ne görüyor? | Ne duyuyor? |
