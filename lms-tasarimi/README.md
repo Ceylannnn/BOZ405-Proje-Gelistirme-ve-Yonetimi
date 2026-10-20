@@ -17,7 +17,7 @@
 
 ### 2. Problem Cümlesi ve HMW Sorusu
 
-* **Problem Cümlesi:** Üniversite öğrencisi Elif, ders kaynaklarına hızlıca ulaşmaya ihtiyaç duyuyor; çünkü kaynaklar kronolojik veya alfabetik uzun listelerde sıralandığı için aradığını bulmakla geçen zaman, asıl çalışma zamanını ve motivasyonunu tüketiyor.
+* **Problem Cümlesi:** Üniversite öğrencisi, ders kaynaklarına hızlıca ulaşmaya ihtiyaç duyuyor; çünkü kaynaklar kronolojik veya alfabetik uzun listelerde sıralandığı için aradığını bulmakla geçen zaman, asıl çalışma zamanını ve motivasyonunu tüketiyor.
 * **HMW (Nasıl Yapabiliriz?):** Öğrencilerin, ihtiyaç duydukları ders kaynağına birkaç saniye içinde ulaşıp o hafta neyi çalışmaları gerektiğini net görmelerini nasıl sağlayabiliriz?
 
 ---
