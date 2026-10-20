@@ -4,7 +4,7 @@ Bu depo, **BÖZ405 Proje Geliştirme ve Yönetimi** dersi kapsamında yürütül
 
 ---
 
-### 👤 Öğrenci Bilgileri
+### Öğrenci Bilgileri
 - **Ad Soyad:** Ceylan Ulusoy
 - **Öğrenci No:** 23040192
 - **Bölüm:** Bilgisayar ve Öğretim Teknolojileri Eğitimi (BÖTE)
