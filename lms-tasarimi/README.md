@@ -1,7 +1,6 @@
-# BOZ405 – Proje Geliştirme ve Yöntemi | Ödev 1
 ## LMS Kaynak Yönetimi İçin Hızlı Tasarım Sprinti
 
-**Ad Soyad:** [ADINIZ SOYADINIZ] **Öğrenci No:** [NUMARANIZ] **Tarih:** 20 Ekim 2026
+**Ad Soyad:** CEYLAN ULUSOY **Öğrenci No:** 23040192 **Tarih:** 20 Ekim 2026
 
 > Mühendislik Tasarım Süreci'nin 5 aşaması (Empati → Tanımla → Fikir Üret → Prototiple → Test Et) 120 dakikalık bir sprintte uygulanmıştır.
 
