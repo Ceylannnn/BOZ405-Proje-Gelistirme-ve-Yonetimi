@@ -41,13 +41,14 @@
 ### 4. Prototip Ekran Görüntüleri
 
 #### Ekran 1: Ana sayfa ("Bu hafta çalış" paneli)
-![Ekran 1 - Ana Sayfa](./assets/prototip-ekran-1.png)
+#### Ekran 1: Ana Sayfa ("Bu Hafta Çalış" Paneli)
+![Ekran 1](./assets/prototip-ekran-1.png)
 
-#### Ekran 2: Tüm haftalar ve filtreler
-![Ekran 2 - Tum Haftalar](./assets/prototip-ekran-2.png)
+#### Ekran 2: Tüm Haftalar ve Filtreler
+![Ekran 2](./assets/prototip-ekran-2.png)
 
-#### Ekran 3: Arama sonuçları
-![Ekran 3 - Arama Sonuclari](./assets/prototip-ekran-3.png)
+#### Ekran 3: Arama Sonuçları
+![Ekran 3](./assets/prototip-ekran-3.png)
 
 ---
 
