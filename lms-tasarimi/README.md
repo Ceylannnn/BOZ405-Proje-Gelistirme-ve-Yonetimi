@@ -53,19 +53,19 @@
 
 ### 5. Test Sonuçları
 
-* **Test Eden Kişi:** Mert (3. Sınıf Mühendislik Fakültesi Öğrencisi)
-* **Görev:** *"Bu haftanın empati haritası sunumunu bul."*
-* **En Önemli 2 Geri Bildirim:**
-  1. Ana sayfadaki "Bu Hafta Çalış" paneli sayesinde arama bile yapmadan tek bakışta ilgili haftanın slaytına 3 saniye içinde ulaştı ve renkli etiketlerin dosya türünü ayırt etmede çok hız kazandırdığını belirtti.
-  2. "Tüm Haftalar" ekranında önceki haftaların kartlarına bakarken, vize öncesi hangi kaynakları tamamlayıp hangilerini henüz açmadığını görebilmek için kartların üzerinde küçük bir tamamlama/okundu göstergesi aradığını ifade etti.
-* **Yaptığım İterasyon:** 
-  Hafta kartlarının alt kısmına ince bir yeşil "tamamlama/ilerleme çizgisi" eklendi; ayrıca arama sonuçları ekranında aranan kelimenin ("empati") hangi hafta kartından geldiği daha vurgulu ve belirgin rozetlerle gösterildi.
+- **Test Eden Kişi:** Yaren (4. Sınıf Öğrencisi)
+- **Görev:** *"Bu haftanın empati haritası sunumunu bul."*
+- **En Önemli 2 Geri Bildirim:**
+  1. Ana sayfadaki "Bu Hafta Çalış" paneli sayesinde arama çubuğunu kullanmaya bile gerek kalmadan ilgili haftanın slaytına 3 saniye içinde ulaştı; renkli tür etiketlerinin (Slayt, Video, Ödev) dosya formatını ayırt etmeyi çok hızlandırdığını belirtti.
+  2. "Tüm Haftalar" ekranında gezinirken, mezuniyet ve yoğun dönem temposunda hangi kaynakları tamamlayıp hangilerini henüz açmadığını görebilmek için hafta kartları üzerinde küçük bir tamamlanma/okundu göstergesi aradığını ifade etti.
+- **Yaptığım İterasyon:** 
+  Geri bildirim doğrultusunda hafta kartlarının alt kısımlarına ince bir yeşil "tamamlanma/ilerleme çizgisi" (progress bar) eklendi; ayrıca arama sonuçları ekranında aranan kelimenin ait olduğu hafta bilgisi daha belirgin rozetlerle vurgulandı.
 
 ---
 
 ### 6. Bireysel Öğrenim Yansıması
 
-* **En Önemli Öğrenimim:**
-  Test aşamasında fark ettiğim en şaşırtıcı içgörü; öğrencilerin temel sorununun kaynağın sistemde var olup olmaması değil, **"bilişsel yük"** ve **"zaman belirsizliği"** olduğuydu. Kullanıcı sadece bir dosya listesi değil, o hafta kendisinden tam olarak ne beklendiğini özetleyen sade bir rehber arayüz istiyor.
-* **Sürece Dair Yansıma:**
-  Mühendislik Tasarım Süreci'nin beş aşamasını uygularken, doğrudan çözüm üretmeye atlamak yerine empati ve tanımlama aşamasında kök probleme odaklanmanın tasarım kararlarını ne kadar kolaylaştırdığını deneyimledim[cite: 1, 2, 4, 8, 9]. 120 dakikalık kısıtlı sürede fikirleri filtrelerken uygulanabilirlik kriterinin önemini gördüm; hızlı bir prototip üzerinden kullanıcı testi yapmanın ise varsayımlarla tasarım yapmaktan çok daha güvenilir sonuçlar verdiğini fark ettim[cite: 2, 8, 9].
+- **En Önemli Öğrenimim:**
+  Test aşamasından çıkardığım en şaşırtıcı içgörü; öğrencilerin yaşadığı asıl problemin sisteme dosya yüklenmemesi değil, **bilişsel karmaşa** ve **zaman baskısı** altında neye öncelik vereceğini bilememesi olduğuydu. Kullanıcılar pasif ve uzun bir dosya yığınından ziyade kendilerine yol gösteren sadeleştirilmiş bir çalışma rehberine ihtiyaç duyuyor.
+- **Sürece Dair Yansıma:**
+  Mühendislik Tasarım Süreci'nin 5 aşamasını 120 dakikalık hızlı bir sprintte uygularken; doğrudan arayüz çizmeye girişmek yerine empati ve tanımlama aşamalarında kök probleme inmenin sonraki kararları ne kadar netleştirdiğini fark ettim. Süre kısıtlı olduğunda fikirleri elerken uygulanabilirlik kriterinin kritik olduğunu, prototip üzerinden kullanıcı geri bildirimi almanın ise kişisel varsayımlardan çok daha doğru yön verdiğini deneyimledim.
